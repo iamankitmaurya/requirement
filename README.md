@@ -1,0 +1,1 @@
+1. Write a Java program to multiply two numbers. 2. Write a Java program to convert a string to uppercase. 3. Write a Java program to sort an array of numbers. 4. Write a Java program to add a key-value pair to a HashMap. 5. Write a Java program that uses a for loop to print numbers from 1 to 10.
